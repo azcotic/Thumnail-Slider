@@ -13,7 +13,7 @@
     -webkit-user-select: none;
     user-select: none;
 }
-
+#HTML15 .widget-content div {font-size:0px;}
 #thumbnail-slider div.inner {
     /*the followings should not be changed */
     position:relative;
