@@ -14,6 +14,9 @@
     user-select: none;
 }
 #HTML15 .widget-content div {font-size:0px;}
+.post-view #HTML15 {
+    display: none;
+}
 #thumbnail-slider div.inner {
     /*the followings should not be changed */
     position:relative;
